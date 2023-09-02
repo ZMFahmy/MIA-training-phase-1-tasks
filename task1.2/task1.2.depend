@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691938674 source:c:\users\lenovo\desktop\task1.2\main.cpp
+	<iostream>
+	<windows.h>
+
